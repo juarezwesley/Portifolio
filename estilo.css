@@ -1,0 +1,106 @@
+        body {
+        font-family: Arial, Helvetica, sans-serif;
+        background: url(background2.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+        margin: 0;
+      }
+      .title {
+        font-weight: 800;
+      }
+      .p1 {
+        font-size: large;
+      }
+      .portfolio-container {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        width: 55%;
+        max-width: 450px;
+        transform: translate(-50%, -50%);
+        z-index: 1;
+        padding: -8px;
+        background-color: #5b595c;
+        border-radius: 15px;
+        box-sizing: border-box;
+      }
+      .perfil{
+       text-align: center;
+       margin-top: 10px;
+      }
+      .profile-picture {
+        width: 130px;
+        height: 130px;
+        border-radius: 50%;
+      }
+      .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .links-section button a {
+        text-decoration: none;
+      }
+      .links-section button {
+        font-style: normal;
+        font-size: medium;
+        font-weight: bolder;
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 11px 8cap;
+        width: 100%;
+        max-width: 350px;
+        background-color: rgb(71, 71, 71);
+        color: #000000;
+        border-color: #000000;
+        border-radius: 11px;
+        margin-bottom: 12px;
+        text-decoration: none;
+        display: inline-block;
+        box-sizing: border-box;
+      }
+      
+      .links-section button:hover {
+        background-color: #3d3d3d;
+      }
+      
+      .links-section .button-github,
+      .links-section .button-linkedin,
+      .links-section .button-instagram,
+      .links-section .button-whatsapp,
+      .links-section .button-gmail {
+    color: black;
+}
+      
+@media screen and (max-width: 768px) {
+  .portfolio-container {
+      width: 90%;
+      max-width: 80%;
+  }
+
+  .links-section button {
+      max-width: 350px;
+      width: 100%;
+      min-width: 200px;
+      padding: 11px 5px;
+      display: block;
+      margin: -3px auto;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .portfolio-container {
+      width: 90%;
+      max-width: 90%;
+  }
+
+  .links-section button {
+    max-width: 250px;
+    width: 100px;
+    min-width: 180px;
+    padding: 11px 5px;
+    display: block;
+    margin: -3px auto;
+  }
+}
