@@ -1,5 +1,4 @@
-Segundo projeto - Portifólio
-=======
+<h1 align="center">Segundo projeto - Portifólio</h1>
 <div>
   
   <h2 align="center">
