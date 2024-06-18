@@ -9,10 +9,8 @@
     <p>
 <h3 align="center">
   O meu <a href="https://juarezwesley.github.io/Portifolio/"> portifólio,</a> feito com HTML e CSS, com Media Queries para responsividade.
-    </div>
-    <p align="center">O uso da linguagem JavaScript foi usada para automatizar e tornar a neve aleatória (snowflakes).</p><br/>
+    </div><br>
       
-
   <h3 align="center">
   Atualmente estudo sobre as tecnologias:
     </h3>
