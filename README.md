@@ -6,15 +6,14 @@
     <a href="https://www.linkedin.com/in/juarez-wesley/"> Juarez Wesley </a> e este é meu 2° pequeno projeto 💻
   </div>
     <div>
-    <p>
 <h3 align="center">
   O meu <a href="https://juarezwesley.github.io/Portifolio/"> portifólio,</a> feito com HTML e CSS, com Media Queries para responsividade.
-    </div><br>
-      
+    </div>
+   <p> 
   <h3 align="center">
   Atualmente estudo sobre as tecnologias:
     </h3>
-</div>
+<p/>
 
 <div align="center" valign="top">
   <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
